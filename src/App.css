@@ -1,0 +1,15 @@
+.container {
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+}
+.table-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.5rem 0;
+}
+.selection-panel {
+  margin-top: 2rem;
+  border-top: 1px solid #ccc;
+  padding-top: 1rem;
+}
